@@ -64,3 +64,7 @@ def text(message):
 
 
 bot.polling()
+
+
+
+# salom bu test
